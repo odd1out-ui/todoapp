@@ -14,8 +14,10 @@ function App() {
           
          < ToDoItemContextProvider>          
           <ToDoName/>
+          <br/>
     
           <AddToDo/>
+          <br/>
          <Welcomemsg/>
           <ToDoParent />
         
